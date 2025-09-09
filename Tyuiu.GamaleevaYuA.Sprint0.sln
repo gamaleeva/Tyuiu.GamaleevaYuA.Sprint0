@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GamaleevaYuA.Sprint0.Task0.V0", "Tyuiu.GamaleevaYuA.Sprint0.Task0.V0\Tyuiu.GamaleevaYuA.Sprint0.Task0.V0.csproj", "{1A13344F-9498-4BAB-9233-2C7A9212BD31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{0C4A80DB-F891-45CC-B654-3D6D7DC487F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GamaleevaYuA.Sprint0.Task1.V0", "Tyuiu.GamaleevaYuA.Sprint0.Task1.V0\Tyuiu.GamaleevaYuA.Sprint0.Task1.V0.csproj", "{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{1A13344F-9498-4BAB-9233-2C7A9212BD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A13344F-9498-4BAB-9233-2C7A9212BD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A13344F-9498-4BAB-9233-2C7A9212BD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1A13344F-9498-4BAB-9233-2C7A9212BD31} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9CA5A97D-0DE2-49BF-AB9D-72E572D9D042} = {0C4A80DB-F891-45CC-B654-3D6D7DC487F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D3805CD-A2F9-4A2B-B2DC-F5A4CC9685BB}
